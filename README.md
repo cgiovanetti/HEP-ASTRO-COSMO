@@ -291,6 +291,12 @@ flavio is a Python package to compute observables in flavour physics, electrowea
 
 ## Spectrum Generators
 
+### Naima
+
+Naima is a Astropy affiliated package for computation of non-thermal radiation from relativistic particle populations.
+
+https://github.com/zblz/naima
+
 ### Spheno
 
 SPheno stands for S(upersymmetric) Pheno(menology). The code calculates the SUSY spectrum using low energy data and a user supplied high scale model as input. The spectrum is used to calculate two- and three body decay modes of supersymmetric particle as well as of Higgs bosons. In addition the production cross sections for supersymmetric particle and Higgs bosons in e^+ e^- annihilation is calculated. Moreover, the branching of the decay $b \to s \gamma$, the SUSY contribution to anomalous magnetic moment of the muon as well as the SUSY contributions to the rho parameter due to sfermions are calculated. The code is written in F90 with an emphasis on easy generalisability. The structure is set such that complex phases as well as the extension to include the flavour structure can be done in a straight forward way. The 2-loop renormalization group equations as well as the one-loop finite corrections a la Bagger, Matchev, Pierce and Zhang are included. In addition the two-loop corrections to the neutral Higgs boson masses (a la Brignole, Degrassi, Slavich and Zwirner) and to the mu-parameter (a la Dedes and Slavich) are included. Starting with version 2.2.2 the SUSY Les Houches Accord is supported as well as the SPA conventions (for details see hep-ph/0511344).
@@ -1707,6 +1713,12 @@ https://github.com/andreatramacere/jetset
 ***
 
 ## Multi-Messenger Analysis
+
+### AM³
+
+AM³ is a software package for simulating lepto-hadronic interactions in astrophysical environments. It computes the time-dependent energy spectra of particles such as electrons, protons, neutrons, photons, neutrinos, and secondary particles (pions and muons) in a magnetic field.
+
+https://gitlab.desy.de/am3/am3
 
 ### 3ML
 
